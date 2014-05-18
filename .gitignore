@@ -1,0 +1,6 @@
+*.nds
+*.o
+.*.swp
+*.elf
+*.d
+*.map
